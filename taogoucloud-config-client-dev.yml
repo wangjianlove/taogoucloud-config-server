@@ -1,2 +1,2 @@
-# taogoucloud-config-server
-配置文件
+server:
+  port: 6666
